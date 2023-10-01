@@ -1,7 +1,7 @@
 # Hi 👋, I am sushan 🧑‍💻
-#### 🙂 About Me
+# 🙂 About Me
 🌱 Currently working on Full Stack (React JS, Node JS , Express JS , MongoDB).
-🛠 Tech Stack
+# 🛠 Tech Stack
 💻 JavaScript ( ES6 + ES7 ) | TypeScript
 🌐 HTML5 | CSS3 | React JS
 🏬 Node JS | Express JS | MongoDB
